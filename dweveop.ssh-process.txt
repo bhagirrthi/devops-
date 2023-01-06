@@ -1,0 +1,5 @@
+how to create SSHkey from scratch
+go to cmd or terminal or github, then use the below command to generate the ssh key from scratch
+#### CMD: ssh-keygen ####
+after adding this command give enter upto 4times to create ssh-KEY--> GOTO USERLOCATION -->SELECT .SSH FILE--> we can see now public &private key
+-->pvtkey name = id_rsa ,
